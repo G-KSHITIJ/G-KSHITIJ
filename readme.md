@@ -1,145 +1,18 @@
-# Kshitij Gupta  
-### Computer Science Student | Backend-Focused Engineer in Progress 🚀
+# 💫 About Me:
+I’m a Computer Science student building toward becoming a strong backend and systems engineer.<br>My work is centered around Data Structures & Algorithms, backend fundamentals, and building practical systems from scratch.<br><br>I approach software engineering as a craft — writing clean logic, understanding time complexity, structuring scalable code, and continuously refining problem-solving ability.<br><br>
 
-I’m a Computer Science student building toward becoming a strong backend and systems engineer.  
-My work is centered around **Data Structures & Algorithms, backend fundamentals, and building practical systems from scratch**.
 
-I approach software engineering as a craft — writing clean logic, understanding time complexity, structuring scalable code, and continuously refining problem-solving ability.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-gupta-ml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gkshitij66@gmail.com) 
 
----
-
-## 🛠 Technical Skills
-
-### Languages
-- **Python**
-- **Java**
-
-### Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Problem Solving & Complexity Analysis
-- Debugging & Code Structuring
-
-### Backend & Tools
-- REST API integration
-- Automation scripting
-- Pandas (data handling & analysis)
-- File I/O & Data Processing
-- Telegram Bot development
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=G-KSHITIJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=G-KSHITIJ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-KSHITIJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=G-KSHITIJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 Current Focus
-
-- Strengthening **DSA foundations (Java + Python)**
-- Writing optimized and structured solutions
-- Designing backend-driven applications
-- Improving system-level thinking
-- Preparing for **Google Summer of Code (GSoC)**
-
----
-
-## 🚀 Featured Projects
-
-### 🐍 Snake Game (Enhanced)
-Object-oriented implementation with:
-- Dynamic growth mechanics  
-- Collision detection  
-- Persistent high-score tracking  
-
-Demonstrates: state management, modular design, clean logic separation.
-
----
-
-### 🏓 Pong Game
-Built using Python’s Turtle graphics module.  
-Implemented paddle control, ball physics, collision handling, and scoreboard logic.
-
-Demonstrates: real-time event handling and game loop control.
-
----
-
-### 🚗 Turtle Road Crossing Game
-Dynamic obstacle generation with increasing difficulty levels and collision detection.
-
-Demonstrates: scalable object creation and difficulty scaling logic.
-
----
-
-### ☕ Coffee Machine (OOP-Based)
-Refactored procedural logic into class-based architecture:
-- Resource tracking
-- Transaction validation
-- Menu-driven system
-
-Demonstrates: clean abstraction and responsibility separation.
-
----
-
-### 🃏 Blackjack Game
-Command-line simulation implementing:
-- Game rules logic
-- Randomization
-- Decision flow control
-
-Demonstrates: algorithmic thinking and edge-case handling.
-
----
-
-### 📊 Stock Market Telegram Bot
-Real-time stock data integration:
-- Fetches live market data via APIs  
-- Returns CMP, % change, volume  
-- Generates trend-based signals  
-
-Demonstrates: API consumption, automation, and practical backend scripting.
-
----
-
-### ✉ Mail Merge Automation
-Automated personalized email generation using file handling and templating logic.
-
-Demonstrates: automation workflows and structured file processing.
-
----
-
-### 🔠 NATO Alphabet Project
-Converted user input into phonetic representations using dictionary comprehensions.
-
-Demonstrates: data mapping and structured iteration.
-
----
-
-### 🗺 US States Guessing Game
-Data-driven game using CSV datasets and graphical interface.
-
-Demonstrates: pandas integration and data-driven design.
-
----
-
-## 🧠 What I'm Building Next
-
-- Advanced DSA problem-solving systems
-- Backend projects with proper architecture layers
-- API-driven applications with authentication
-- Scalable automation workflows
-- Deeper exploration into AI-powered systems
-
----
-
-## 🌍 Long-Term Vision
-
-- Contribute to impactful open-source programs like **Google Summer of Code**
-- Develop production-grade backend systems
-- Master system design fundamentals
-- Work in Big Tech as a backend or systems engineer
-- Build technology that scales and solves real problems
-
----
-
-## 📊 GitHub Stats
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-KSHTIJ&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-KSHTIJE&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
